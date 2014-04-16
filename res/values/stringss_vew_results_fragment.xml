@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="view_results_fragment_rate">Тариф</string>
+    <string name="view_results_fragment_upto">До</string>
+    <string name="view_results_fragment_previous">Предыдущие</string>
+    <string name="view_results_fragment_current">Текущие</string>
+    <string name="view_results_fragment_total">Всего</string>
+    <string name="view_results_fragment_price">Цена</string>
+    <string name="view_results_fragment_limit">Лимит</string>
+
+</resources>

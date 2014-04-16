@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Simple electricity paycheck calculator</string>
+    <string name="rates_menu">Тарифы</string>
+
+
+    <string name="measurements_old">Предыдущие</string>
+    <string name="measurements_current">Текущие</string>
+    <string name="measurements_kWatt">кВт</string>
+    <string name="measurements_discount">Снижка</string>
+
+    <string name="add">Добавить</string>
+    <string name="edit">Редактировать</string>
+    <string name="delete">Удалить</string>
+    <string name="save">Сохранить</string>
+
+</resources>
